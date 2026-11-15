@@ -1,18 +1,18 @@
 # Regulations / Регламенты соревнований
 
-## Robotic competition rules powered by pinMode / Регламенты соревнований по категориям робототехники, разработанные в клубе pinMode, Беларусь
+## Регламенты соревнований по категориям робототехники, разработанные в клубе pinMode, Беларусь
 
 # Категории соревнований:
 
 - [**LFR** - следование по линии](/LFR/readme.md)
 
-- [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/readme.md)
+- [**MiniSumo** - мини сумо 10*10](/MiniSumo/readme.md)
 
-- [**MicroSumo** - микро сумо 5*5](/Regulations/MicroSumo/readme.md)
+- [**MicroSumo** - микро сумо 5*5](/MicroSumo/readme.md)
 
-- [**Micromouse** - лабиринт](/Regulations/Micromouse/readme.md)
+- [**Micromouse** - лабиринт](/Micromouse/readme.md)
 
-- [**ProfiLine** - линия профи](/Regulations/ProfiLine/readme.md)
+- [**ProfiLine** - линия профи](/ProfiLine/readme.md)
 
-- [**LineCV** - линия профи с компьютерным зрением](/Regulations/LineCV/readme.md)
+- [**LineCV** - линия профи с компьютерным зрением](/LineCV/readme.md)
 
