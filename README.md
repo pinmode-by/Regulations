@@ -1,11 +1,8 @@
-# Regulations
-# Регламенты соревнований
+# Regulations / Регламенты соревнований
 
-Robotic competition rules powered by pinMode
+## Robotic competition rules powered by pinMode / Регламенты соревнований по категориям робототехники, разработанные в клубе pinMode, Беларусь
 
-Регламенты соревнований по категориям робототехники, разработанные в клубе pinMode, Минск, Беларусь
-
-Категории соревнований:
+# Категории соревнований:
 
 - [**LFR** - следование по линии](/Regulations/LFR/readme.md)
 
