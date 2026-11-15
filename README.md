@@ -9,13 +9,13 @@ Robotic competition rules powered by pinMode
 
 - [**LFR** - следование по линии](/Regulations/LFR/readme.md)
 
-- [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/)
+- [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/readme.md)
 
-- [**MicroSumo** - микро сумо 5*5](/Regulations/MicroSumo/)
+- [**MicroSumo** - микро сумо 5*5](/Regulations/MicroSumo/readme.md)
 
-- [**Micromouse** - лабиринт](/Regulations/Micromouse/)
+- [**Micromouse** - лабиринт](/Regulations/Micromouse/readme.md)
 
-- [**ProfiLine** - линия профи](/Regulations/ProfiLine/)
+- [**ProfiLine** - линия профи](/Regulations/ProfiLine/readme.md)
 
-- [**LineCV** - линия профи с компьютерным зрением](/Regulations/LineCV/)
+- [**LineCV** - линия профи с компьютерным зрением](/Regulations/LineCV/readme.md)
 
