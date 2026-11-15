@@ -4,7 +4,7 @@
 
 # Категории соревнований:
 
-- [**LFR** - следование по линии](/Regulations/LFR/readme.md)
+- [**LFR** - следование по линии](/LFR/readme.md)
 
 - [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/readme.md)
 
