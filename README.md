@@ -7,7 +7,7 @@ Robotic competition rules powered by pinMode
 
 Категории соревнований:
 
-- [**LFR** - следование по линии](/Regulations/LFR/)
+- [**LFR** - следование по линии](/Regulations/LFR/readme.md)
 
 - [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/)
 
