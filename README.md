@@ -7,15 +7,15 @@ Robotic competition rules powered by pinMode
 
 Категории соревнований:
 
-- **LFR** - следование по линии
+- [**LFR** - следование по линии](/Regulations/LFR/)
 
-- **MiniSumo** - мини сумо 10*10
+- [**MiniSumo** - мини сумо 10*10](/Regulations/MiniSumo/)
 
-- **MicroSumo** - микро сумо 5*5
+- [**MicroSumo** - микро сумо 5*5](/Regulations/MicroSumo/)
 
-- **Micromouse** - лабиринт
+- [**Micromouse** - лабиринт](/Regulations/Micromouse/)
 
-- **ProfiLine** - линия профи
+- [**ProfiLine** - линия профи](/Regulations/ProfiLine/)
 
-- **LineCV** - линия профи с компьютерным зрением
+- [**LineCV** - линия профи с компьютерным зрением](/Regulations/LineCV/)
 
