@@ -4,15 +4,15 @@
 
 # Категории соревнований:
 
-- [**LFR** - следование по линии](/LFR/readme.md)
+- [**LFR** - следование по линии](./LFR/readme.md)
 
-- [**MiniSumo** - мини сумо 10*10](/MiniSumo/readme.md)
+- [**MiniSumo** - мини сумо 10*10](./Mini_micro_sumo/readme.md)
 
-- [**MicroSumo** - микро сумо 5*5](/MicroSumo/readme.md)
+- [**MicroSumo** - микро сумо 5*5](README.md/Mini_micro_sumo/readme.md)
 
-- [**Micromouse** - лабиринт](/Micromouse/readme.md)
+- [**Micromouse** - лабиринт](./Micromouse/readme.md)
 
-- [**ProfiLine** - линия профи](/ProfiLine/readme.md)
+- [**ProfiLine** - линия профи](./ProfiLine/readme.md)
 
-- [**LineCV** - линия профи с компьютерным зрением](/LineCV/readme.md)
+- [**LineCV** - линия профи с компьютерным зрением](./LineCV/readme.md)
 
