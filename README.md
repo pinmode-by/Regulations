@@ -8,7 +8,7 @@
 
 - [**MiniSumo** - мини сумо 10*10](./Mini_micro_sumo/readme.md)
 
-- [**MicroSumo** - микро сумо 5*5](README.md/Mini_micro_sumo/readme.md)
+- [**MicroSumo** - микро сумо 5*5](./Mini_micro_sumo/readme.md)
 
 - [**Micromouse** - лабиринт](./Micromouse/readme.md)
 
